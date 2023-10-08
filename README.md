@@ -4,7 +4,7 @@
 
 ![Level](https://img.shields.io/badge/Level-Junior-green?style=for-the-badge)
 
-- [Video](https://youtube/@codingw3)
+- [Video](https://youtu.be/q97zJWi8mL4)
 - [Demo](https://codingw3.github.io/Video4-View-Input-Password/)
 
 ## Technologies
