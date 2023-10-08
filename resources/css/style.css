@@ -20,12 +20,12 @@ body {
   background-color: var(--green);
 }
 
-.mt-10 {
-  margin-top: 10px;
-}
-
 .container {
   max-width: 300px;
+}
+
+.mt-10 {
+  margin-top: 10px;
 }
 
 .input-container {
